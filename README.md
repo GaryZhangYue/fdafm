@@ -1,3 +1,4 @@
+# version 1.0
 # fdafm
 
 Analyzing atomic force microscopy (Multimode NanoScrope IIId AFM Bruker) force-distance curve raw data to extrapolate adhesive force, adhesive energy, rupture length, repulsive energy, repulsive distance and sample indentation length.
